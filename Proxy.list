@@ -27,6 +27,10 @@ DOMAIN-SUFFIX,ktmcloud.cloud
 DOMAIN-SUFFIX,right.com.cn
 DOMAIN-SUFFIX,youtube.com
 
+# 其他网站
+DOMAIN-SUFFIX,polymarket.com
+DOMAIN-SUFFIX,cacapex.com
+DOMAIN-SUFFIX,1lib.sk
 DOMAIN-SUFFIX,6bcloud.top
 DOMAIN-SUFFIX,viptwo.top
 DOMAIN-SUFFIX,followme.com
@@ -53,6 +57,9 @@ DOMAIN-SUFFIX,lianjiasub.work
 DOMAIN-SUFFIX,muniucloud.pro
 DOMAIN-SUFFIX,kuajing.uk
 DOMAIN-SUFFIX,metacubex.one
+DOMAIN-SUFFIX,xiaoxintv.cc
+DOMAIN-SUFFIX,69yun.top
+DOMAIN-SUFFIX,nivodi.com
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
